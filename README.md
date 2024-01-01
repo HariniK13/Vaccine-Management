@@ -1,5 +1,5 @@
 # Vaccine-Management
-Vaccine Management System using C++
+Vaccine Management System using C++(File Handling)
 
 # Objective
 The main objective of this project is to design a Vaccine Management System for storing and retrieving vaccination data. The system should be as flexible as possible so that it can be used for different hospitals vaccination centre. You have to find out which procedures have used for different vaccination centre. You have to find out which procedures hospitals have and based on that information, you should create a system which makes it efficient. You need to find out how a hospital system works on the internet, use your own experience or directly talk to people in the hospital vaccination centre.
